@@ -1,3 +1,3 @@
 slides:
-	jupyter nbconvert architecture_presentation.ipynb --to slides --post serve
+	jupyter nbconvert SCNA.ipynb --to slides --post serve
 
